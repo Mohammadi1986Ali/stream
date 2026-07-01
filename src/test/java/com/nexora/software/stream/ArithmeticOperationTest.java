@@ -1,4 +1,4 @@
-package com.ai4everyone.tutorial.stream;
+package com.nexora.software.stream;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.params.ParameterizedTest;

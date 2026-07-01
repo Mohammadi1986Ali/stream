@@ -1,4 +1,4 @@
-package com.ai4everyone.tutorial.stream;
+package com.nexora.software.stream;
 
 public enum ArithmeticOperationType {
     ADD,
